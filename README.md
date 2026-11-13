@@ -1,2 +1,22 @@
-# shortcut-cat
-A lightweight Windows/macOS keyboard shortcut learning web app with skill trees, hands-on key practice, and a quiet monochrome pixel-cat mini-game.
+# Shortcut Cat（仮称）
+
+**WindowsとMacのショートカットキーを、見て・押して・復習して覚える学習アプリ。**
+
+スキルツリーで習得状況を見渡し、日常のパソコン操作に役立つキーの組み合わせを段階的に練習します。モノクロで平面的な画面を基本とし、ちいさなネコが動く静かなミニゲームを反復練習に取り入れる予定です。
+
+## 主な構想
+- **スキルツリー**：基本操作、文章編集、ブラウザ、ウィンドウ、ファイル管理、応用操作。
+- **実キー入力練習**：操作名を見て、対応するキーの組み合わせを押して回答。
+- **復習・習熟度**：未学習／練習中／習得／熟達を可視化。
+- **OS切替**：Windows/macOSの違い、JIS/USキー配列の差を学習。
+- **CAT RUN**：正しいショートカット入力でネコが動く、控えめなモノクロゲーム。
+
+ゲームは任意です。学習を主目的とし、PCを使う職場や学習環境で開いても自然なデザインを目指します。
+
+## 現在の状態
+- **GitHubリポジトリ：Publicで作成済み**（App Factory [Issue #21](https://github.com/moyashimisosoup/app-factory/issues/21)）
+- **段階：構想・初期設計**
+- **アプリ本体、Webサイト、CI、OS別実機動作：未実装・未検証**
+- GitHub Pagesによるサイト公開は行っていません。
+
+開発計画は [docs/ROADMAP.md](docs/ROADMAP.md)、作業原則は [AGENTS.md](AGENTS.md) を参照してください。APP-ID: APP-032。
